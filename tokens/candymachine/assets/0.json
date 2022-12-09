@@ -1,0 +1,44 @@
+{
+  "name": " Renegade Hippo #1",
+  "symbol": "ReHi",
+  "description": "Renegade hippos residing in the muddy ponds of Solana",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Basil"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Face Addons",
+      "value": "Radioactive"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Afro"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

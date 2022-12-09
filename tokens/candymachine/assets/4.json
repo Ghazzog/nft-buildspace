@@ -1,0 +1,44 @@
+{
+  "name": " Renegade Hippo #5",
+  "symbol": "ReHi",
+  "description": "Renegade hippos residing in the muddy ponds of Solana",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Formal Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Btc Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Rhino Horn"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": " Renegade Hippo #9",
+  "symbol": "ReHi",
+  "description": "Renegade hippos residing in the muddy ponds of Solana",
+  "image": "8.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cheap Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry Grin"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

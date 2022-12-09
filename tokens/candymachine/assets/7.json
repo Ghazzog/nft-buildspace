@@ -1,0 +1,40 @@
+{
+  "name": " Renegade Hippo #8",
+  "symbol": "ReHi",
+  "description": "Renegade hippos residing in the muddy ponds of Solana",
+  "image": "7.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Pond"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Face Addons",
+      "value": "Fish Gill"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Afro"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Golden"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

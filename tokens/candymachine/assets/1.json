@@ -1,0 +1,44 @@
+{
+  "name": " Renegade Hippo #2",
+  "symbol": "ReHi",
+  "description": "Renegade hippos residing in the muddy ponds of Solana",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Old Mauve"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Face Addons",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ripped Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lipstick"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

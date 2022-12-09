@@ -1,0 +1,48 @@
+{
+  "name": " Renegade Hippo #10",
+  "symbol": "ReHi",
+  "description": "Renegade hippos residing in the muddy ponds of Solana",
+  "image": "9.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Old Mauve"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Sunset Rocks"
+    },
+    {
+      "trait_type": "Face Addons",
+      "value": "Black Full Eye"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Xihexi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Standard Bloody"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Rhino Horn"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": " Renegade Hippo #4",
+  "symbol": "ReHi",
+  "description": "Renegade hippos residing in the muddy ponds of Solana",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Rhino"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Face Addons",
+      "value": "Small Scratch"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Burgundy Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reading Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Knit Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Standard Bloody"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
